@@ -1,1 +1,1 @@
-# simple BMI calcultor for Adult
+# simple BMI calculator for Adult
